@@ -1,0 +1,1 @@
+SELECT * FROM proyecto11.materia;
